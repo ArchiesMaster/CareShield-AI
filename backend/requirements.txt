@@ -1,0 +1,16 @@
+#AI
+requests
+faster-whisper
+langdetect
+uuid
+#json
+datetime
+#BACKEND
+fastapi
+sqlalchemy
+pydantic
+pydantic-settings
+uvicorn
+python-multipart
+#DB
+psycopg
